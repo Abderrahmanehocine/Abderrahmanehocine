@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Abderrahmane Hocine.
+- 👀 I’m interested in software engineering.
+- 🌱 I’m currently learning data structures using c and c++.
+- 📫 How to reach me:
+  -linkdIn: https://www.linkedin.com/in/hocine-abderrahmane-b14bb1220/
