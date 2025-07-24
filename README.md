@@ -2,7 +2,8 @@
 
 💻 Software Development Student at INSFP Audiovisuel  
 🎨 Self-taught Graphic Designer  
-🌍 Based in Algiers, Algeria  
+🌍 Based in Algiers, Algeria 
+✉️ hocineabderrahmane05@gmail.com
 🔗 [Portfolio Website](https://abderrahmanehocine.github.io/portfolio) | [LinkedIn](https://www.linkedin.com/in/hocine-abderrahmane-b14bb1220/)
 
 ---
